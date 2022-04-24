@@ -8,7 +8,7 @@ In the terminal, you can instantly create a new project by using [degit](https:/
 
 ```bash
 npx degit zsrobinson/svelte-bulma-fa-template new-project
-cd my-svelte-project
+cd new-project
 # to use TypeScript run:
 # node scripts/setupTypeScript.js
 
