@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+scripts/* linguist-detectable=false
+public/assets/* linguist-detectable=false
+rollup.config.js linguist-detectable=false
